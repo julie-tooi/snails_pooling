@@ -1,7 +1,3 @@
----
-output: html_document
----
-
 # Effect of the proteomic sample pooling on statistical power and type I error rate
 ## Project description
 
@@ -70,7 +66,7 @@ Variables must be specified:
 - Degree of technical variability <mark> (sig e) </mark>
 
 ## Results
-![](https://s113sas.storage.yandex.net/rdisk/5d962a5a69df8da17fbb07c5591514a3e4f10d5e89200e691090b49cda5c63ad/5e3df18d/fKqInKw3d7bLFOeFnMGnhOb3edIyamFhWf4Uwg5ySpDJSEmrILl_KY9P2tbiGk3ZgCL4254OKF73jPp2DqhqreQJXnv3OeZc6ErgGSxXO6ar8npumZHI4midPdWhecNq?uid=1130000038919147&filename=fin_r_plot.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=1130000038919147&fsize=132636&hid=846f9b03b0452173074931151a4d9c5b&media_type=image&tknv=v2&etag=c8fc833b07c9484b5d166351a5ed16f3&rtoken=ZExucjrFXtWE&force_default=yes&ycrid=na-8e4cdf4e8cb823e078ac6261dc1bec7a-downloader23h&ts=59e04af05bd40&s=263f935ff8425893cfe02ba6b256e5f62fa92855926b0a15326ceb448a0745a6&pb=U2FsdGVkX1_BPAvv_xUU5Q4ZfvkBe676aqG7_14xgmYJM2d24yGKmh1XAB8jc7G4e7oM2Y9JICRDuwu4wG2GEYs30gaAce-K_d7qVVCeKvwSRunr-hfHZfMZbdUFmeZK)
+![Results](plot.png)
 
 ## References 
 [1] Shu-Dong Zhang, Timothy W. Gant, Effect of pooling samples on the efficiency of comparative studies using microarrays, Bioinformatics, Volume 21, Issue 24, 15 December 2005, Pages 4378–4383, https://doi.org/10.1093/bioinformatics/bti717.
